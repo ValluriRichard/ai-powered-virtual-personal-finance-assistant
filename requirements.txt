@@ -1,0 +1,21 @@
+# Core data / notebook
+pandas
+numpy
+jupyter
+notebook
+pyarrow
+
+# Machine learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Hugging Face / NLP
+datasets
+transformers
+huggingface_hub
+fsspec
+accelerate
+
+# Deep learning
+torch
